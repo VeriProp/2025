@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+
+github:
+  is_project_page: false
+
+title: VeriProP 2025
+description: The Workshop on Verification of Probabilistic Programs<br>July 22, co-located with CAV 2025
