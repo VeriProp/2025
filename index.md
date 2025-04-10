@@ -36,14 +36,18 @@ We call for extended abstracts (1-2 pages in pdf format) describing either ongoi
 
 ### Submission
 
-**Submission date**: TBA
+**Submission deadline**: May 9th, 2025 AOE
 
-**Submission link**: TBA
+**Submission link**: https://easychair.org/conferences/?conf=veriprop2025
 
 ### Attending
 
 The workshop will take place on July 22rd, the day before CAV. Please register via the [official CAV website](https://conferences.i-cav.org/2025/).
 
+### Travel Funds
+
+Students who are giving a contributed presentation may apply for travel funding by contacting [Fredrik Dahlqvist](mailto:f.dahlqvist@qmul.ac.uk).
+Since the available budget is limited, we kindly ask students to apply only if they cannot fund their trip by any other means.
 
 # Organization
 
