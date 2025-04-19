@@ -53,7 +53,7 @@ Since the available budget is limited, we kindly ask students to apply only if t
 
 The workshop is chaired by:
 
-- Kevin Batz, RWTH Aachen
+- Kevin Batz, University College London
 - Michele Chiari, TU Wien
 - Maximilian Weininger, IST Austria
 
