@@ -8,7 +8,10 @@ This workshop will provide a forum for research on the automated verification of
 
 # Invited Speakers
 
-TBA
+- **Alejandro Aguirre**, Aarhus University
+- **Stefan Kiefer**, University of Oxford
+- **Frncesca Randone**, University of Trieste
+- **Anne-Kathrin Schmuck**, MPI Kaiserslautern
 
 
 # Program
