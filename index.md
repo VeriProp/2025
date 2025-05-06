@@ -10,7 +10,7 @@ This workshop will provide a forum for research on the automated verification of
 
 - **Alejandro Aguirre**, Aarhus University
 - **Stefan Kiefer**, University of Oxford
-- **Frncesca Randone**, University of Trieste
+- **Francesca Randone**, University of Trieste
 - **Anne-Kathrin Schmuck**, MPI Kaiserslautern
 
 
@@ -39,7 +39,7 @@ We call for extended abstracts (1-2 pages in pdf format) describing either ongoi
 
 ### Submission
 
-**Submission deadline**: May 9th, 2025 AOE
+**Submission deadline**: May ~~9th~~ 23rd, 2025 AOE
 
 **Submission link**: <https://easychair.org/conferences/?conf=veriprop2025>
 
