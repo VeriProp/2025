@@ -16,7 +16,24 @@ This workshop will provide a forum for research on the automated verification of
 
 # Program
 
-TBA
+| Time  | Author(s)                                                                                                   | Title                                                                                              |
+|-------|-------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| **9:00**  | **Alejandro Aguirre**                                                                                   | **TBA**                                                                                            |
+| 9:45  | Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Petr Novotný and Đorđe Žikelić                            | Refuting Equivalence in Probabilistic Programs with Conditioning                                   |
+| 10:00 | Niki Omidvari, Fredrik Dahlqvist                                                                            | Symbolically Evaluating Probabilistic Programs Using Cylindrical Algebraic Decomposition           |
+| 10:15 | Diptarko Roy, Mirco Giacobbe and Alessandro Abate                                                           | Probabilistic Omega-Regular Verification with Supermartingales                                     |
+| 10:30 |                                                                                                             | Coffee Break                                                                                       |
+| **11:00** | **Anne-Kathrin Schmuck**                                                                                | **TBA**                                                                                            |
+| 11:45  | Kittiphon Phalakarn, Yun Chen Tsai, Ichiro Hasuo                                                           | Widest Path Games and Maximality Inheritance in Bounded Value Iteration for Stochastic Games       |
+| 12:00 |                                                                                                             | Lunch (provided)                                                                                   |
+| 14:00  | **Stefan Kiefer**                                                          | **TBA**        |
+| 14:45  | Filip Macák, Roman Andriushchenko, Milan Češka, Sebastian Junges                                           | PAYNT: A Framework for Controller Synthesis Under Uncertainty                                      |
+| 15:00  | Bahare Salmani, Vincent Derkinderen                                          | Relating Probabilistic Model Checking and Weighted Model Counting                                      |
+| 15:15  | Yun Chen Tsai                                          | Chance and Mass Interpretations of Probabilities in Markov Decision Processes                                      |
+| 15:30 |                                                                                                             | Coffee Break                                                                                       |
+| 16:00  | **Francesca Randone**                                          | **TBA**                                      |
+| 16:45  | Luko van der Maas, Sebastian Junges                                         | Learning Verified Monitors for Hidden Markov Models                                      |
+| 17:00  | Francesco Pontiggia, Ezio Bartocci, Michele Chiari                                                          | Exact Inference for Nested Discrete Probabilistic Programs       |
 
 
 # Call for Presentations
