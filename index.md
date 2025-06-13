@@ -29,7 +29,7 @@ This workshop will provide a forum for research on the automated verification of
 | **14:00**  | **Stefan Kiefer**                                                                                      | **Strategies in Infinite Stochastic Systems**         |
 | 14:45  | Filip Macák, Roman Andriushchenko, Milan Češka, Sebastian Junges                                           | PAYNT: A Framework for Controller Synthesis Under Uncertainty                                      |
 | 15:00  | Bahare Salmani, Vincent Derkinderen                                          | Relating Probabilistic Model Checking and Weighted Model Counting                                      |
-| 15:15  | Yun Chen Tsai                                          | Chance and Mass Interpretations of Probabilities in Markov Decision Processes                                      |
+| 15:15  | Yun Chen Tsai, Kittiphon Phalakarn, S. Akshay, Ichiro Hasuo                                          | Chance and Mass Interpretations of Probabilities in Markov Decision Processes                                      |
 | 15:30 |                                                                                                             | Coffee Break                                                                                       |
 | **16:00**  | **Francesca Randone**                                          | **TBA**                                      |
 | 16:45  | Luko van der Maas, Sebastian Junges                                         | Learning Verified Monitors for Hidden Markov Models                                      |
