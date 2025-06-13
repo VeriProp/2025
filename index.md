@@ -17,7 +17,7 @@ This workshop will provide a forum for research on the automated verification of
 # Program
 
 | Time  | Author(s)                                                                                                   | Title                                                                                              |
-|-------|-------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+|-------|-------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------| A Resource-Based Approach to Probabilistic Program Verification
 | **9:00**  | **Alejandro Aguirre**                                                                                   | **TBA**                                                                                            |
 | 9:45  | Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Petr Novotný and Đorđe Žikelić                            | Refuting Equivalence in Probabilistic Programs with Conditioning                                   |
 | 10:00 | Niki Omidvari, Fredrik Dahlqvist                                                                            | Symbolically Evaluating Probabilistic Programs Using Cylindrical Algebraic Decomposition           |
