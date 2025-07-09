@@ -31,7 +31,7 @@ This workshop will provide a forum for research on the automated verification of
 | 15:00  | Bahare Salmani, Vincent Derkinderen                                          | Relating Probabilistic Model Checking and Weighted Model Counting                                      |
 | 15:15  | Yun Chen Tsai, Kittiphon Phalakarn, S. Akshay, Ichiro Hasuo                                          | Chance and Mass Interpretations of Probabilities in Markov Decision Processes                                      |
 | 15:30 |                                                                                                             | Coffee Break                                                                                       |
-| **16:00**  | **Francesca Randone**                                          | **TBA**                                      |
+| **16:00**  | **Francesca Randone**                                          | **The Integral Challenge: Deductive Verification of Continuous Probabilistic Programs**                                      |
 | 16:45  | Luko van der Maas, Sebastian Junges                                         | Learning Verified Monitors for Hidden Markov Models                                      |
 | 17:00  | Francesco Pontiggia, Ezio Bartocci, Michele Chiari                                                          | Exact Inference for Nested Discrete Probabilistic Programs       |
 
